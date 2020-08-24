@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TaRL online Content
 
 You can use the [editor on GitHub](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
