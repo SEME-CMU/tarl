@@ -2,6 +2,9 @@
 
 Download Manul [French](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) [Math](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) 
 
+
+![Image](https://lh3.googleusercontent.com/proxy/uvvGyjY922BYThfYbIKjS83gVTQx8gt8tYMNqTId4NKhmpLwMklrljKfmn9pDpgmkHDhamxrx6rxjD7D9kxZGdrQ7Rm8C8JuulxloJ7Gqjy2_E2Fiw)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
