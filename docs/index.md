@@ -1,6 +1,6 @@
 ## Welcome to TaRL online Content
 
-You can use the [editor on GitHub](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Download Manul [French](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) [Math](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
