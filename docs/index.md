@@ -2,6 +2,7 @@
 
 Download Manul [French](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) [Math](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) 
 
+Here are some tips on using Dia, watch the images and read the text for context
 
 ### Sending the message using messenger
 ![Image](2.sendmessage.gif)
