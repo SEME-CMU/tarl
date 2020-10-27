@@ -3,37 +3,40 @@
 Download Manul [French](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) [Math](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) 
 
 
-### Liking a Facebook Page
-
-
-<p float="left">
-
-<img  width="60%" src="1.like.gif"/>
-                                               <div width="35%">The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.</div>
-</p>
-
-
 ### Sending the message using messenger
 ![Image](2.sendmessage.gif)
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
+---
+
 ### Browsing through the content
-![Image](https://lh3.googleusercontent.com/proxy/uvvGyjY922BYThfYbIKjS83gVTQx8gt8tYMNqTId4NKhmpLwMklrljKfmn9pDpgmkHDhamxrx6rxjD7D9kxZGdrQ7Rm8C8JuulxloJ7Gqjy2_E2Fiw)
+![Image](4.browse.gif)
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-
+---
 ### Adding a Goal
 ![Image](3.goals.gif)
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
+---
 
 ### Downloading the PEC manual
-![Image](https://venturebeat.com/wp-content/uploads/2016/07/GIF.gif?resize=400%2C816&strip=all)
+![Image](6.manuel.gif)
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
 
-### Sharing a story
-![Image](https://lh3.googleusercontent.com/proxy/uvvGyjY922BYThfYbIKjS83gVTQx8gt8tYMNqTId4NKhmpLwMklrljKfmn9pDpgmkHDhamxrx6rxjD7D9kxZGdrQ7Rm8C8JuulxloJ7Gqjy2_E2Fiw)
+---
+
+### Community
+![Image](5.community.gif)
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+---
+
+### Liking a Facebook Page
+
+![Image](1.like.gif)
+The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+---
 
 
 ### Finishing the survey
@@ -71,10 +74,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SEME-CMU/tarl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
