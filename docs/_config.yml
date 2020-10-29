@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 locale:       "fr"
 markdown: kramdown
+locale:       "en"
+show_downloads: false
