@@ -7,7 +7,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Envoi du message via Messenger
 <p align="center">
-  <img src="2.sendmessage.gif" />
+  <img src="2.sendmessage.gif" width="55%" />
 </p>
   
 * Ouvrez Facebook Messenger
@@ -19,7 +19,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Parcourir le contenu
 <p align="center">
-  <img src="4.browse2.gif" width="60%" />
+  <img src="4.browse2.gif" width="55%" />
 </p>
 
 * Vous pouvez facilement parcourir le contenu en utilisant les numéros
@@ -29,7 +29,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 ---
 ### Ajout d'un objectif
 <p align="center">
-  <img src="3.goals.gif" />
+  <img src="3.goals.gif" width="55%" />
 </p>
 
 * Un bon facilitateur fixe des objectifs par semaine et mesure les progrès au quotidien.
@@ -41,7 +41,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Téléchargement du manuel PEC
 <p align="center">
-  <img src="6.manuel.gif" />
+  <img src="6.manuel.gif"  width="55%"/>
 </p>
 
 * L'option manuelle PEC est pour vous aider à obtenir le dernier manuel PEC.
@@ -55,7 +55,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Communauté
 <p align="center">
-  <img src="5.community.gif" />
+  <img src="5.community.gif" width="55%" />
 </p>
 
 * La communauté PEC vous aide à entrer en contact avec les enseignants PEC à travers le pays.
@@ -68,7 +68,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Aimer une page Facebook
 <p align="center">
-  <img src="1.like.gif" />
+  <img src="1.like.gif"  width="55%" />
 </p>
 
 * Veuillez aimer notre page https://www.facebook.com/seme.pec/ pour obtenir les dernières mises à jour
