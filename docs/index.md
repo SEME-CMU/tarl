@@ -1,85 +1,85 @@
-## Welcome to TaRL online Content
+## Bienvenue dans le contenu en ligne de TaRL
 
 
-Download Manul [French](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) [Math](https://github.com/SEME-CMU/tarl/edit/master/docs/index.md) 
+Télécharger Manuel [French](french_manual.pdf){:target="_blank"}  [Math](math_manual.pdf){:target="_blank"}
 
-Here are some tips on using Dia, watch the images and read the text for context
+Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez le texte pour le contexte
 
-### Sending the message using messenger
+### Envoi du message via Messenger
 
 ![Image](2.sendmessage.gif)
   
-* Open Facebook Messenger
-* Find SEME page by searching for "SEME PEC"
-* Alternatively you can click on the link https://messenger.com/t/seme.pec
-* Send a salutation message to get started :)
+* Ouvrez Facebook Messenger
+* Trouvez la page SEME en recherchant "SEME PEC"
+* Vous pouvez également cliquer sur le lien https://messenger.com/t/seme.pec
+* Envoyez un message de salutation pour commencer :)
 
 ---
 
-### Browsing through the content
+### Parcourir le contenu
 ![Image](4.browse2.gif)
-* You can easily browse through the content by using the numbers
-* Read the options and type 1-5 to navigate the menu
-* You can always type 0 to go the home screen (from anywhere)
+* Vous pouvez facilement parcourir le contenu en utilisant les numéros
+* Lisez les options et tapez 1-5 pour naviguer dans le menu
+* Vous pouvez toujours taper 0 pour accéder à l'écran d'accueil (de n'importe où)
 
 ---
-### Adding a Goal
+### Ajout d'un objectif
 ![Image](3.goals.gif)
 
-* Un bon facilitateur fixe des objectifs par semaine et mesure les progrès au quotidien. 
+* Un bon facilitateur fixe des objectifs par semaine et mesure les progrès au quotidien.
 * Fixez votre objectif et partagez-le avec vos amis pour rester motivé
-* When you reach the right menu, the system will ask you to enter your goal
-* You can type your goal for the week and the system will support you achieve it
+* Lorsque vous atteignez le menu de droite, le système vous demandera d'entrer votre objectif
+* Vous pouvez taper votre objectif pour la semaine et le système vous aidera à l'atteindre
 
 ---
 
-### Downloading the PEC manual
+### Téléchargement du manuel PEC
 ![Image](6.manuel.gif)
 
-* L'option manuelle PEC est pour vous aider à obtenir le dernier manuel PEC. 
-* Nous avons des manuels français et mathématiques ici. 
-* Une fois que vous avez trouvé l'élément, cliquez sur le nom du fichier pour le télécharger dans votre téléphone
-* To download, go to the PEC menu and navigate to the manual (see image)
-* Choose the manual you want to dowload e.g. French/Math
-* Then you can download the file to your phone by clicking on the link (see image)
+* L'option manuelle PEC est pour vous aider à obtenir le dernier manuel PEC.
+* Nous avons des manuels français et mathématiques ici.
+* Une fois que vous avez réussi à définir, cliquez sur le nom du fichier pour le télécharger dans votre téléphone
+* Pour télécharger, allez dans le menu PEC et accédez au manuel (voir image)
+* Choisissez le manuel que vous souhaitez télécharger par ex. Français / Math
+* Ensuite, vous pouvez télécharger le fichier sur votre téléphone en cliquant sur le lien (voir image)
 
 ---
 
-### Community
+### Communauté
 ![Image](5.community.gif)
 
-* La communauté PEC vous aide à entrer en contact avec les enseignants PEC à travers le pays. 
-* Vous pouvez lire des histoires ou des blagues d'autres enseignants pour rester motivé. 
+* La communauté PEC vous aide à entrer en contact avec les enseignants PEC à travers le pays.
+* Vous pouvez lire des histoires ou des blagues d'autres enseignants pour rester motivé.
 * Vous pouvez également partager vos histoires avec nous et nous pourrions présenter votre histoire sur la page PEC
 
 
 
 ---
 
-### Liking a Facebook Page
+### Aimer une page Facebook
 
 ![Image](1.like.gif)
 
-* Please like our page https://www.facebook.com/seme.pec/ to get the latest updates
-* You can also find our page by searching for "SEME PEC" on facebook (remember to look for the icon)
-* We will share interesting stories throughut the week 
-* Feel free to participate in the amazing PEC community by commenting on our posts
+* Veuillez aimer notre page https://www.facebook.com/seme.pec/ pour obtenir les dernières mises à jour
+* Vous pouvez également trouver notre page en recherchant "SEME PEC" sur facebook (pensez à chercher l'icône)
+* Nous partagerons des histoires intéressantes tout au long de la semaine
+* N'hésitez pas à participer à l'incroyable communauté PEC en commentant nos publications
 
 ---
 
 <!---
-### Sharing the profile picture on Facebook
-Your pages 
+### Partage de la photo de profil sur Facebook
+Vos pages
 
 
-### Finishing the survey
-The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+### Fin de l'enquête
+Le thème Cayman est destiné à permettre aux utilisateurs de Pages GitHub de créer rapidement et facilement leur premier (ou 100e) site Web. Le thème doit répondre à la grande majorité des besoins des utilisateurs dès la sortie de la boîte, en privilégiant la simplicité plutôt que la flexibilité, et offrir aux utilisateurs la possibilité d'accepter une complexité supplémentaire s'ils ont des besoins spécifiques ou souhaitent personnaliser davantage leur expérience. (comme l'ajout de CSS personnalisé ou la modification de la mise en page par défaut). Il devrait également avoir fière allure, mais cela va sans dire.
 
 
 -->
 
 
 
-### Support or Contact
+### Assistance ou contact
 
-Need more support> Call Adji:  [+22509703988](tel:+22509703988) or [email us](mailto:vkamath@andrew.cmu.edu?subject=[SEME])
+Besoin de plus d'assistance> Appelez Adji: [+22509703988] (tel: +22509703988) ou [envoyez-nous un e-mail] (mailto:vkamath@andrew.cmu.edu?Subject=[SEME])
