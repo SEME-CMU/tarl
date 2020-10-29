@@ -82,4 +82,4 @@ Le thème Cayman est destiné à permettre aux utilisateurs de Pages GitHub de c
 
 ### Assistance ou contact
 
-Besoin de plus d'assistance> Appelez Adji: [+22509703988] (tel: +22509703988) ou [envoyez-nous un e-mail] (mailto:vkamath@andrew.cmu.edu?Subject=[SEME])
+Besoin de plus d'assistance> Appelez Adji: [+22509703988](tel: +22509703988) ou [envoyez-nous un e-mail](mailto:vkamath@andrew.cmu.edu?Subject=[SEME])
