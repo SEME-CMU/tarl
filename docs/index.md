@@ -19,7 +19,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Parcourir le contenu
 <p align="center">
-  <img src="4.browse2.gif" width="320" />
+  <img src="4.browse2.gif" width="60%" />
 </p>
 
 * Vous pouvez facilement parcourir le contenu en utilisant les numéros
