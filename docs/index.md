@@ -1,7 +1,7 @@
 ## Bienvenue dans le contenu en ligne de TaRL
 
 
-Télécharger Manuel [French](french_manual.pdf){:target="_blank"}  [Math](math_manual.pdf){:target="_blank"}
+Télécharger Manuel [French](french_manual.pdf)  [Math](math_manual.pdf)
 
 Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez le texte pour le contexte
 
