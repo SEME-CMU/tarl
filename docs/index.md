@@ -6,8 +6,9 @@ Télécharger Manuel [French](french_manual.pdf)  [Math](math_manual.pdf)
 Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez le texte pour le contexte
 
 ### Envoi du message via Messenger
-
-![Image](2.sendmessage.gif)
+<p align="center">
+  <img src="2.sendmessage.gif" />
+</p>
   
 * Ouvrez Facebook Messenger
 * Trouvez la page SEME en recherchant "SEME PEC"
@@ -17,14 +18,19 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 ---
 
 ### Parcourir le contenu
-![Image](4.browse2.gif)
+<p align="center">
+  <img src="4.browse2.gif" width="320" />
+</p>
+
 * Vous pouvez facilement parcourir le contenu en utilisant les numéros
 * Lisez les options et tapez 1-5 pour naviguer dans le menu
 * Vous pouvez toujours taper 0 pour accéder à l'écran d'accueil (de n'importe où)
 
 ---
 ### Ajout d'un objectif
-![Image](3.goals.gif)
+<p align="center">
+  <img src="3.goals.gif" />
+</p>
 
 * Un bon facilitateur fixe des objectifs par semaine et mesure les progrès au quotidien.
 * Fixez votre objectif et partagez-le avec vos amis pour rester motivé
@@ -34,7 +40,9 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 ---
 
 ### Téléchargement du manuel PEC
-![Image](6.manuel.gif)
+<p align="center">
+  <img src="6.manuel.gif" />
+</p>
 
 * L'option manuelle PEC est pour vous aider à obtenir le dernier manuel PEC.
 * Nous avons des manuels français et mathématiques ici.
@@ -46,7 +54,9 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 ---
 
 ### Communauté
-![Image](5.community.gif)
+<p align="center">
+  <img src="5.community.gif" />
+</p>
 
 * La communauté PEC vous aide à entrer en contact avec les enseignants PEC à travers le pays.
 * Vous pouvez lire des histoires ou des blagues d'autres enseignants pour rester motivé.
@@ -57,8 +67,9 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 ---
 
 ### Aimer une page Facebook
-
-![Image](1.like.gif)
+<p align="center">
+  <img src="1.like.gif" />
+</p>
 
 * Veuillez aimer notre page https://www.facebook.com/seme.pec/ pour obtenir les dernières mises à jour
 * Vous pouvez également trouver notre page en recherchant "SEME PEC" sur facebook (pensez à chercher l'icône)
