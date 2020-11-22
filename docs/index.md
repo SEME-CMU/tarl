@@ -7,7 +7,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Envoi du message via Messenger
 <p align="center">
-  <img src="2.sendmessage.gif" width="55%" />
+  <img src="2.send-message-v2.gif" width="55%" />
 </p>
   
 * Ouvrez Facebook Messenger
