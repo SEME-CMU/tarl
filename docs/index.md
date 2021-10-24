@@ -1,13 +1,12 @@
-## Bienvenue dans le contenu en ligne de TaRL
+## Bienvenue dans le contenu en ligne de PEC
 
-
-Télécharger Manuel [French](french_manual.pdf)  [Math](math_manual.pdf)
+Besoin de plus d'assistance> Appelez Salem: [+2250747616811](tel:+2250747616811) ou [envoyez-nous un e-mail](mailto:vkamath@andrew.cmu.edu?Subject=[SEME])
 
 Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez le texte pour le contexte
 
 ### Envoi du message via Messenger
 <p align="center">
-  <img src="2.send-message-v2.gif" width="55%" />
+  <img src="2.gif" width="55%" />
 </p>
   
 * Ouvrez Facebook Messenger
@@ -19,7 +18,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Parcourir le contenu
 <p align="center">
-  <img src="4.browse2.gif" width="55%" />
+  <img src="3.gif" width="55%" />
 </p>
 
 * Vous pouvez facilement parcourir le contenu en utilisant les numéros
@@ -27,21 +26,10 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 * Vous pouvez toujours taper 0 pour accéder à l'écran d'accueil (de n'importe où)
 
 ---
-### Ajout d'un objectif
-<p align="center">
-  <img src="3.goals.gif" width="55%" />
-</p>
-
-* Un bon facilitateur fixe des objectifs par semaine et mesure les progrès au quotidien.
-* Fixez votre objectif et partagez-le avec vos amis pour rester motivé
-* Lorsque vous atteignez le menu de droite, le système vous demandera d'entrer votre objectif
-* Vous pouvez taper votre objectif pour la semaine et le système vous aidera à l'atteindre
-
----
 
 ### Téléchargement du manuel PEC
 <p align="center">
-  <img src="6.manuel.gif"  width="55%"/>
+  <img src="5.gif"  width="55%"/>
 </p>
 
 * L'option manuelle PEC est pour vous aider à obtenir le dernier manuel PEC.
@@ -55,7 +43,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Communauté
 <p align="center">
-  <img src="5.community.gif" width="55%" />
+  <img src="6.gif" width="55%" />
 </p>
 
 * La communauté PEC vous aide à entrer en contact avec les enseignants PEC à travers le pays.
@@ -68,7 +56,7 @@ Voici quelques conseils sur l'utilisation de Dia, regardez les images et lisez l
 
 ### Aimer une page Facebook
 <p align="center">
-  <img src="1.like.gif"  width="55%" />
+  <img src="7.gif"  width="55%" />
 </p>
 
 * Veuillez aimer notre page https://www.facebook.com/seme.pec/ pour obtenir les dernières mises à jour
@@ -91,6 +79,3 @@ Le thème Cayman est destiné à permettre aux utilisateurs de Pages GitHub de c
 
 
 
-### Assistance ou contact
-
-Besoin de plus d'assistance> Appelez Adji: [+22509703988](tel:+22509703988) ou [envoyez-nous un e-mail](mailto:vkamath@andrew.cmu.edu?Subject=[SEME])
